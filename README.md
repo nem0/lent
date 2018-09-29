@@ -36,3 +36,6 @@ Similar projects:
 * [entt](https://github.com/skypjack/entt)
 * [entityx](https://github.com/alecthomas/entityx)
 * [minECS](https://github.com/Alan-FGR/minECS/)
+
+Contributors:
+[skypjack](https://github.com/skypjack) - idea of making the library no single header library
