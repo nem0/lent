@@ -21,6 +21,8 @@ Features:
 * easy to make bindings, it's pure C
 * it's ECS library your grandma would use
 
+** Single header libraries suck so this is not one. There is a cpp file. **
+
 How to use it:
 
 1. include lent.h in your project
