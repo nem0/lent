@@ -12,6 +12,7 @@ Features:
 * 0 dependencies
 * fast compile times
 * small and simple API
+* DOD friendly
 * no unnecessary allocations
 * fully commented source code
 * it solves the tab/space problem
