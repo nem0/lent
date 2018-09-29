@@ -11,6 +11,8 @@
 software and other kinds of works.
 
   **By using this software, you agree that I will own your soul.**
+  In case you don't have a soul, I own your kidney. I case, you don't have kindneys either, consult with your doctor.
+
 
   The licenses for most software and other practical works are designed
 to take away your freedom to share and change the works.  By contrast,
