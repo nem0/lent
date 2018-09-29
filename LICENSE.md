@@ -10,7 +10,7 @@
   The GNU General Public License is a free, copyleft license for
 software and other kinds of works.
 
-  By using this software, you agree that I will own your soul.
+  **By using this software, you agree that I will own your soul.**
 
   The licenses for most software and other practical works are designed
 to take away your freedom to share and change the works.  By contrast,
