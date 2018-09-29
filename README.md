@@ -7,6 +7,7 @@ The best ECS library, ever.
 
 Features:
 
+* it can run Crysis
 * 2nd generation ECS system
 * as fast as it gets
 * 0 dependencies
