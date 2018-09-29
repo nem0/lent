@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+godot
+dogot
+your girlfriend
+your mum
+
+sample/.vs/
+sample/Debug/
+sample/Release/
+sample/x64/
+*.user
