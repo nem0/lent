@@ -7,6 +7,7 @@ The best ECS library, ever.
 
 Features:
 
+* 2nd generation ECS system
 * as fast as it gets
 * 0 dependencies
 * fast compile times
@@ -38,4 +39,6 @@ Similar projects:
 * [minECS](https://github.com/Alan-FGR/minECS/)
 
 Contributors:
+
 [skypjack](https://github.com/skypjack) - idea of making the library no single header library
+[hugoam](https://github.com/hugoam) - he pointed out that I forgot to mention that lent is 2nd generation ECS
