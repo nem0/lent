@@ -25,7 +25,7 @@ Features:
 
 How to use it:
 
-1. include lent.h in your project
+1. include lent.h and lent.cpp in your project
 2. enjoy
 
 See ```samples``` for more info
