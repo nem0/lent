@@ -23,6 +23,7 @@ Features:
 * easy to rewrite in rust
 * easy to make bindings, it's pure C
 * it's ECS library your grandma would use
+* made by Stable Genius
 
 **Single header libraries suck so this is not one. There is a cpp file.**
 
