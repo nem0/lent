@@ -33,7 +33,7 @@ How to use it:
 
 See ```samples``` for more info
 
-License: GPL-3.0, contact me for commercial licenses
+License: GPL-3.0, slightly modified; contact me for commercial licenses $$$
 
 Similar projects:
 * [entt](https://github.com/skypjack/entt)
