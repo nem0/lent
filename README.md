@@ -40,5 +40,5 @@ Similar projects:
 
 Contributors:
 
-[skypjack](https://github.com/skypjack) - idea of making the library no single header library
-[hugoam](https://github.com/hugoam) - he pointed out that I forgot to mention that lent is 2nd generation ECS
+* [skypjack](https://github.com/skypjack) - idea of making the library no single header library
+* [hugoam](https://github.com/hugoam) - he pointed out that I forgot to mention that lent is 2nd generation ECS
