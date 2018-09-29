@@ -2,6 +2,9 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="sample.cpp" />
-    <ClCompile Include="..\lent.cpp" />
+    <ClCompile Include="..\lent.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\lent.h" />
   </ItemGroup>
 </Project>
