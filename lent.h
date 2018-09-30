@@ -1,5 +1,5 @@
 #pragma once
-
+#include <stdint.h>
 
 // entity 
-typedef unsigned int lent_entity;
+typedef uint32_t lent_entity;
