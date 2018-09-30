@@ -2,4 +2,4 @@
 #include <stdint.h>
 
 // entity 
-typedef uint_32 lent_entity;
+typedef uint32_t lent_entity;
