@@ -3,6 +3,8 @@
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nem0/LumixEngine?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+Support me on [patreon](https://www.patreon.com/user?u=6383512), now!
+
 The best ECS library, ever.
 
 Features:
