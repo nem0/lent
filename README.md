@@ -47,4 +47,4 @@ Contributors:
 
 * [skypjack](https://github.com/skypjack) - idea of making the library no single header library
 * [hugoam](https://github.com/hugoam) - he pointed out that I forgot to mention that lent is 2nd generation ECS
-* [AmishRacecar](https://www.reddit.com/r/gamedev/comments/9jz7cr/simple_ecs_library/e6vafmj/) -for  completely meaningless comment on reddit
+* [AmishRacecar](https://www.reddit.com/r/gamedev/comments/9jz7cr/simple_ecs_library/e6vafmj/) - for  completely meaningless comment on reddit
