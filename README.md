@@ -18,13 +18,13 @@ Features:
 * DOD friendly
 * no unnecessary allocations
 * fully commented source code
-* it solves the tab/space problem
+* solves the tab/space problem
 * multiplatform, can run on Windows, Linux, Mac, Phones, Consoles, Raspberry Pi, Arduinos, ...
 * supports most data layouts
 * 100% customizable 
 * easy to rewrite in rust
 * easy to make bindings, it's pure C
-* it's ECS library your grandma would use
+* the ECS library your grandma would use
 * made by Stable Genius
 
 **Single header libraries suck so this is not one. There is a cpp file.**
@@ -45,6 +45,6 @@ Similar projects:
 
 Contributors:
 
-* [skypjack](https://github.com/skypjack) - idea of making the library no single header library
-* [hugoam](https://github.com/hugoam) - he pointed out that I forgot to mention that lent is 2nd generation ECS
-* [AmishRacecar](https://www.reddit.com/r/gamedev/comments/9jz7cr/simple_ecs_library/e6vafmj/) -for  completely meaningless comment on reddit
+* [skypjack](https://github.com/skypjack) - idea of making the library a "no single header library"
+* [hugoam](https://github.com/hugoam) - pointed out that I forgot to mention that lent is 2nd generation ECS
+* [AmishRacecar](https://www.reddit.com/r/gamedev/comments/9jz7cr/simple_ecs_library/e6vafmj/) -for a completely meaningless comment on reddit
