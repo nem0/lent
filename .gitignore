@@ -44,3 +44,4 @@ sample/x64/
 cmake/cmake-build-debug/
 cmake/CMakeFiles/
 cmake/CMakeCache.txt
+.idea/
