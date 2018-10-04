@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/tjy/lent/cmake",
+  "command": "/usr/bin/cc   -g   -o CMakeFiles/sample.dir/home/tjy/lent/lent.c.o   -c /home/tjy/lent/lent.c",
+  "file": "/home/tjy/lent/lent.c"
+},
+{
+  "directory": "/home/tjy/lent/cmake",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/sample.dir/home/tjy/lent/sample/sample.cpp.o -c /home/tjy/lent/sample/sample.cpp",
+  "file": "/home/tjy/lent/sample/sample.cpp"
+}
+]
