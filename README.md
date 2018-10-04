@@ -34,6 +34,13 @@ How to use it:
 1. include lent.h and lent.c in your project
 2. enjoy
 
+###### Build the sample
+
+    cd cmake
+    cmake .
+    make
+
+
 See ```samples``` for more info
 
 License: GPL-3.0, slightly modified; contact me for commercial licenses $$$

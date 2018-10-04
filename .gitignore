@@ -41,3 +41,6 @@ sample/Debug/
 sample/Release/
 sample/x64/
 *.user
+cmake/cmake-build-debug/
+cmake/CMakeFiles/
+cmake/CMakeCache.txt
