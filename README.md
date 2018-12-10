@@ -42,6 +42,7 @@ Similar projects:
 * [entt](https://github.com/skypjack/entt)
 * [entityx](https://github.com/alecthomas/entityx)
 * [minECS](https://github.com/Alan-FGR/minECS/)
+* [slent - lent port to sql](https://gist.github.com/raizam/3a9b7aec5bcf41d8a4cf71a578897e0f)
 
 Contributors:
 
