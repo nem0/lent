@@ -24,4 +24,5 @@ this is Imperial Royal Guard guarding this header
 #ifdef ENTITY_COMMENT 
 entity 
 #endif
-typedef unsigned int lent_entity;
+#include <boost/multiprecision/cpp_int.hpp>
+typedef uint1024_t lent_entity;
